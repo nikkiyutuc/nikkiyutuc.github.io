@@ -1,1 +1,1 @@
-# http://nikkiyutuc.github.io
+# http://nikkiyutuc.github.io/home
