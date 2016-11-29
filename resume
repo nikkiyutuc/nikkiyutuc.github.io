@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<title> Resume </title>
+		<link rel="shortcut icon" type="image/x-icon" href=/Users/nikkiyutuc/Desktop/nikki/nikkiyutuc.github.io/icon.ico />
+	<head>
+	
+	<body style="background-color:#ffe6e6;"> </body>
+	
+<p>
+<H3> Contact Information </H3>
+Email: nikki.yutuc@maine.com <br>
+</p>
+
+<H3> Education </H3> 
+<p>
+University of Maine - Undergraduate &emsp; &emsp; &emsp;
+Expected Graduation Date: May 2020  <br>
+5739 Knox Hall<br>
+Orono, ME <br>
+04469, USA							
+</p>
+
+<p>
+Saipan Southern High School &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;
+Graduated: June 1, 2016 <br>
+P.O. Box 500268 <br>
+Saipan, MP <br>
+96950, USA	 <br>							        
+</p>
+
+<H3> Leadership Experience </H3>
+<p>Close Up Club <br>
+September 2015 – June 2016 <br>
+President<br>
+* Ensure that all members are prepared to present to schools about the CNMI Holidays<br>
+* Work with advisor and officers to prepare for fundraisers and other events <br>
+* Prepare paperwork for all members (permissions slips, lesson plans, etc.) <br>
+</p>
+
+<H3> Saipan Southern High School Manta Ray Battalion </H3> <br>
+September 2015– June 2016 <br>
+Battalion Executive Officer (BNXO)<br>
+* Organized and lead cadet battalion staff properly to ensure that each battalion staff officer prepare and submit reports on time <br>
+* Performed duties assigned by battalion commander and instructors to guarantee that staff objectives are executed in a timely fashion <br>
+
+<H3> Senior Class of 2016 </H3>	<br>
+September 2015 – June 2016
+<p>Historian <br>
+* Take pictures and keep record of all events <br>
+* Work with advisors and other officers in special tasks to prepare for events <br>
+</p>
+
+<H3> Saipan Southern High School Manta Ray Battalion </H3> <br>
+September 2013– June 2015 
+<p> Battalion Training and Operations Officer (BNS3)<br>
+* Prepares Operations Orders, training schedules and memoranda to facilitate battalion training and operations <br>
+* Allocates resources to ensure the accomplishment of all missions <br>
+</p>
+
+<H3> Skills </H3>
+<p> 
+* Competent at managing, multitasking, and assuming responsibilities in a high-volume atmosphere, hard worker, quick learner, and have the ability to work in a fast-paced, intense environment smoothly with excellent interpersonal skills <br>
+* Proficient with the use of computer programs such as Microsoft Office and the Internet <br>
+* Works well with others <br>
+</p>
+	
+	
+	</p>
+	
+	<nav>
+	<ul>
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="website.html"> Home </a> </H3>	</li>
+		
+		
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="about.html"> About </a> </H3> </li>
+			<P style="text-align:left; color: #0ABA5D"> 
+	
+	
+			
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="gallery.html"> Gallery </a> </H3> </li>
+	
+		
+	
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="contact.html"> Contact </a> </H3>	</li>
+		
+	</ul>
+	</nav>
