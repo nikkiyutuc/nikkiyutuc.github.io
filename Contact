@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<title> Contact </title>
+		<link rel="shortcut icon" type="image/x-icon" href=/Users/nikkiyutuc/Desktop/nikki/nikkiyutuc.github.io/icon.ico />
+	<head>
+<body style="background-color:#ffe6e6;"> </body>
+
+<form>
+        
+    <H1>Name</H1>
+    <input name="name" placeholder="Type Here"> <br>
+            
+    <H1>Email</H1>
+    <input name="email" type="email" placeholder="Type Here"> <br>
+
+    <H1>Message</H1>
+    <textarea name="message" placeholder="Type Here"></textarea> <br>
+            
+    <input id="submit" name="submit" type="submit" value="Submit">
+        
+</form>
+	
+	<?php
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+    $from = 'From: HTML'; 
+    $to = 'nikkiyutuc@gmail.com'; 
+    $subject = 'Website';
+
+    $body = "From: $name\n E-Mail: $email\n Message:\n $message";
+?>
+	
+
+	<nav>
+	<ul>
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="website.html"> Home </a> </H3>	</li>
+		
+		
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="about.html"> About </a> </H3> </li>
+			<P style="text-align:left; color: #0ABA5D"> 
+	
+	
+	
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="resume.html"> Resume </a> </H3> </li>
+	
+		
+		
+		
+		<li> <H3 style="text-align:left; color: #0ABA5D"> <a href="gallery.html"> Gallery </a> </H3> </li>
+	
+		
+	
+		
+	</ul>
+	</nav>
